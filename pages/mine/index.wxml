@@ -1,0 +1,9 @@
+
+<view class='toast_diy' wx:if="{{toastShow}}">
+  <view class='diy_content'>
+    <text>{{toastContent}}</text>  
+  </view>
+</view>
+
+
+
